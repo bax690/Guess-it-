@@ -27,7 +27,7 @@ while True:
     else:
         print('Что? \nПросто напиши цифру 1 или 2')
         knowly = int(input())
-print('Ну че, выбирай сложность \n1. Изи \n2. Средний \n3. Босс')
+print('Ну че, выбирай сложность \n1. Лёгкий \n2. Средний \n3. Босс')
 lvl = int(input())
 if lvl == 1:
     print(nya)

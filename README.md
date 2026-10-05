@@ -11,7 +11,9 @@ This is a game. Here you need guess number, which depends on a lvl you choose.
 
 ## Features
 * [x] Basic random game 
-* [ ] User interface 
+* [ ] User interface
+* [ ] Add diffrents languages
+* [ ] Use functions
 * [ ] Database support 
 
 ## 💻 How to Run
@@ -21,5 +23,6 @@ This is a game. Here you need guess number, which depends on a lvl you choose.
    python main.py
    ```
 
-## My Progress
-I am saving this to track my growth from school level to university projects. 
+## My Progress/Сhanges story
+I am saving this to track my growth from school level to university projects.
+* **v1.0.0** - Code upload. Currently available only in Russian.

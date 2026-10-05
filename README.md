@@ -10,13 +10,13 @@ This is a game. Here you need guess number, which depends on a lvl you choose.
 * **Status:** Work in progress. **I will update and improve this project as my skills grow.**
 
 ## Features
-* [x] Basic random game / Простые вычисления
-* [ ] User interface / Графический интерфейс (в планах)
-* [ ] Database support / Добавление базы данных (в планах)
+* [x] Basic random game 
+* [ ] User interface 
+* [ ] Database support 
 
 ## 💻 How to Run
-1. Clone this repository / Склонируйте репозиторий.
-2. Open the main file / Откройте главный файл:
+1. Clone this repository .
+2. Open the main file :
    ```bash
    python main.py
    ```

@@ -4,7 +4,7 @@ fst = random.randint(1, 3)
 f2st = random.randint(1, 3)
 f3st = random.randint(1, 3)
 f4st = random.randint(1, 5)
-f5st = random.randint(1, 5)
+f5st = random.randint(1, 5)             #random numbers generation
 f6st = random.randint(1, 5)
 f7st = random.randint(1, 10)
 f8st = random.randint(1, 10)
@@ -20,7 +20,7 @@ time.sleep(0.6)
 print("1 - да, нужны \n2- нет, я все знаю")
 knowly = int(input())
 while True:
-    if knowly == 1:
+    if knowly == 1:      #check, players wants to read rules or no
         time.sleep(0.5)
         print('Тут все очень просто. \n1. Компьютер загадывает число в тайне \n2. Ты должен отгадать это число')
         break
@@ -30,9 +30,9 @@ while True:
         break
     else:
         time.sleep(0.5)
-        print('Что? \nПросто напиши цифру 1 или 2')
+        print('Что? \nПросто напиши цифру 1 или 2')     #if player write unknow char
         knowly = int(input())
-print('Выбирай сложность \n1. Изи \n2. Средний \n3. Босс')
+print('Выбирай сложность \n1. Изи \n2. Средний \n3. Босс')   #level select
 lvl = int(input())
 if lvl == 1:
     print(nya)
@@ -61,7 +61,7 @@ if lvl == 1:
         time.sleep(0.5)
         print('Нет')
     time.sleep(0.5)
-    print("Готово, твой счет", fstscore,"/ 3")
+    print("Готово, твой счет", fstscore,"/ 3")    #shows score
 if lvl == 2:
     print(nya)
     f4lvlfrnd = int(input())

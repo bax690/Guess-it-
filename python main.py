@@ -115,7 +115,8 @@ if lvl == 1:
     if language == 1:
         print("Готово, твой счет", fstscore,"/ 3")
     else:
-        print("Done, your score is", fstscore,"/ 3")    #shows score
+        print("Done, your score is", fstscore,"/ 3")
+    time.sleep(1010101010101010)#shows score
 if lvl == 2:
     if language == 1:
         print(nya)
@@ -168,6 +169,7 @@ if lvl == 2:
         print("Готово, твой счет", fstscore,"/ 9")
     else:
         print("Done, your score is", fstscore,"/ 9")
+    time.sleep(1010101010101010)
 if lvl == 3:
     if language == 1:
         print(nya)
@@ -220,3 +222,4 @@ if lvl == 3:
         print("Готово, твой счет", fstscore,"/ 30")
     else:
         print("Done, your score is", fstscore,"/ 30")
+    time.sleep(1010101010101010)

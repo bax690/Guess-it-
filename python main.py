@@ -114,9 +114,14 @@ if lvl == 1:
     time.sleep(0.5)
     if language == 1:
         print("Готово, твой счет", fstscore,"/ 3")
+        print("""Спасибо за игру!!!
+        by bax690""")
+        time.sleep(15)
     else:
         print("Done, your score is", fstscore,"/ 3")
-    time.sleep(1010101010101010)#shows score
+        print("""Thanks for playing my game!!!
+                by bax690""")
+        time.sleep(15)    #shows score
 if lvl == 2:
     if language == 1:
         print(nya)
@@ -167,9 +172,14 @@ if lvl == 2:
     time.sleep(0.5)
     if language == 1:
         print("Готово, твой счет", fstscore,"/ 9")
+        print("""Спасибо за игру!!!
+        by bax690""")
+        time.sleep(15)
     else:
         print("Done, your score is", fstscore,"/ 9")
-    time.sleep(1010101010101010)
+        print("""Thanks for playing my game!!!
+                by bax690""")
+        time.sleep(15)
 if lvl == 3:
     if language == 1:
         print(nya)
@@ -220,6 +230,14 @@ if lvl == 3:
     time.sleep(0.5)
     if language == 1:
         print("Готово, твой счет", fstscore,"/ 30")
+        print("""Спасибо за игру!!!
+        by bax690""")
+        time.sleep(15)
     else:
         print("Done, your score is", fstscore,"/ 30")
-    time.sleep(1010101010101010)
+        print("""Thanks for playing my game!!!
+                by bax690""")
+        time.sleep(15)
+
+
+

@@ -12,7 +12,7 @@ This is a game. Here you need guess number, which depends on a lvl you choose.
 ## Features
 * [x] Basic random game 
 * [ ] User interface
-* [ ] Add diffrents languages
+* [Almost. [EN], [RU] Add diffrents languages
 * [ ] Use functions
 * [ ] Database support 
 
@@ -27,4 +27,5 @@ This is a game. Here you need guess number, which depends on a lvl you choose.
 I am saving this to track my growth from school level to university projects.
 * **v1.0.0** - Code upload. Currently available only in Russian.
 * **v1.0.1** - Implemented text delays using the time module for better user experience.
-* **v1.0.2** - "I added tuples because I learned about them in Python programming today)."
+* **v1.0.2** - "I added tuples because I learned about them in Python programming today).
+* **v1.1.0** - I added English version!

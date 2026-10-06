@@ -12,7 +12,7 @@ This is a game. Here you need guess number, which depends on a lvl you choose.
 ## Features
 * [x] Basic random game 
 * [ ] User interface
-* [Almost. [EN], [RU] Add diffrents languages
+* [Almost. [EN], [RU]] Add diffrents languages
 * [ ] Use functions
 * [ ] Database support 
 
